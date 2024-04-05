@@ -1,0 +1,240 @@
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.exe
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.deps.json
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.runtimeconfig.json
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.DAL.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.Modelos.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.BSS.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.Modelos.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.DAL.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaIngresarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaInterfazVendedor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.Form1.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazGerenteVista.InterfazGerenteMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazGerenteVista.MenuGerente.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazInicioSesionVista.InterfazinicioSesionMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazSupervisorVista.InterfazSupervisorMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazVendedorVista.InterfazVendedorMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaListarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoDatosVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoInterfazSupervisor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVIstas.ProductoListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.Properties.Resources.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorInterfazSupervisor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorListarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaInterfazVendedor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.AssemblyInfo.cs
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\Sistemas.420D297C.Up2Date
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\refint\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.genruntimeconfig.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\ref\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.exe
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.deps.json
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.runtimeconfig.json
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.VISTA.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.DAL.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.Modelos.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.BSS.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.Modelos.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\bin\Debug\net7.0-windows\SistemasVentas.DAL.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ClienteVistas.ClienteSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleingVistas.DetalleingListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaIngresarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaInterfazVendedor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.DetalleVentaVistas.DetalleVentaListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.Form1.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.IngresoVistas.IngresoSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazGerenteVista.InterfazGerenteMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazGerenteVista.MenuGerente.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazInicioSesionVista.InterfazinicioSesionMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazSupervisorVista.InterfazSupervisorMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.InterfazVendedorVista.InterfazVendedorMenu.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.MarcaVistas.MarcaSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaListarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.PersonaVistas.PersonaSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoDatosVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoInterfazSupervisor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVIstas.ProductoListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProductoVistas.ProductoSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.Properties.Resources.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorInterfazSupervisor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorListarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveedorVistas.ProveedorSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.ProveeVistas.ProveeListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.RolVistas.RolSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.TipoProdVistas.TipoProdSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioRolVistas.UsuarioRolListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.UsuarioVistas.UsuarioSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaDatosVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaEditarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaInsertarVista.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaInterfaz.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaInterfazVendedor.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaListarVistas.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.VentaVistas.VentaSeleccionar.resources
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.AssemblyInfo.cs
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\Sistemas.420D297C.Up2Date
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\refint\SistemasVentas.VISTA.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\SistemasVentas.VISTA.genruntimeconfig.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.VISTA\obj\Debug\net7.0-windows\ref\SistemasVentas.VISTA.dll

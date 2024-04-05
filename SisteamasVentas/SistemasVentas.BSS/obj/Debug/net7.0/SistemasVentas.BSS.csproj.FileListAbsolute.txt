@@ -1,0 +1,34 @@
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.BSS.deps.json
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.BSS.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.DAL.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.Modelos.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.DAL.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.Modelos.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.AssemblyInfo.cs
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\Sistemas.E7AFBF48.Up2Date
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\refint\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main (6)\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\ref\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.BSS.deps.json
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.BSS.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.DAL.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.Modelos.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.DAL.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\bin\Debug\net7.0\SistemasVentas.Modelos.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.AssemblyInfo.cs
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\Sistemas.E7AFBF48.Up2Date
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\refint\SistemasVentas.BSS.dll
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\SistemasVentas.BSS.pdb
+C:\Users\andre\Downloads\ProyectoFinalT\sistemaventasncapas-main\SisteamasVentas\SistemasVentas.BSS\obj\Debug\net7.0\ref\SistemasVentas.BSS.dll
